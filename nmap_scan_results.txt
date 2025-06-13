@@ -1,0 +1,10 @@
+# Nmap 7.95 scan initiated Fri Jun 13 13:46:05 2025 as: /usr/lib/nmap/nmap -sV -oN nmap_scan_results.txt 192.168.109.2
+Nmap scan report for 192.168.109.2
+Host is up (0.00026s latency).
+Not shown: 999 closed tcp ports (reset)
+PORT   STATE SERVICE VERSION
+53/tcp open  domain  dnsmasq 2.51
+MAC Address: 00:50:56:EF:13:BE (VMware)
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Fri Jun 13 13:46:12 2025 -- 1 IP address (1 host up) scanned in 7.17 seconds
